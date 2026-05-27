@@ -31,5 +31,15 @@ trends; simulating a real business analytics workflow end-to-end.
 - VIEWs
 
 ## Power BI Dashboard
-- Interactive dashboard with slicers for region, category, and time period
-- Dynamic KPI tracking for revenue, orders, and customer spend
+
+### Page 1 — Revenue Overview
+![Revenue Overview](Page_1.png)
+
+### Page 2 — Top Customers
+![Top Customers](Page_2.png)
+
+### Page 3 — Product Performance
+![Product Performance](Page_3.png)
+
+### Page 4 — Order Status & Payment Analysis
+![Order Status](Page_4.png)
