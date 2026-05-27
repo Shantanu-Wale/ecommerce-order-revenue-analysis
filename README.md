@@ -22,6 +22,8 @@ trends; simulating a real business analytics workflow end-to-end.
 - ₹97,342 in discount-driven revenue loss identified across product categories
 
 ## SQL Concepts Used
+## Project Files
+- `Ecom_project_script.sql` —> All SQL queries with findings documented
 - Multi-table JOINs
 - Window Functions
 - Subqueries
