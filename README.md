@@ -23,7 +23,7 @@ trends; simulating a real business analytics workflow end-to-end.
 
 ## SQL Concepts Used
 ## Project Files
-- `Ecom_project_script.sql` —> All SQL queries with findings documented
+- `Ecom_project_script.sql` -> All SQL queries with findings documented
 - Multi-table JOINs
 - Window Functions
 - Subqueries
@@ -32,14 +32,14 @@ trends; simulating a real business analytics workflow end-to-end.
 
 ## Power BI Dashboard
 
-### Page 1 — Revenue Overview
+### Page 1: Revenue Overview
 ![Revenue Overview](Page_1.png)
 
-### Page 2 — Top Customers
+### Page 2: Top Customers
 ![Top Customers](Page_2.png)
 
-### Page 3 — Product Performance
+### Page 3: Product Performance
 ![Product Performance](Page_3.png)
 
-### Page 4 — Order Status & Payment Analysis
+### Page 4: Order Status & Payment Analysis
 ![Order Status](Page_4.png)
