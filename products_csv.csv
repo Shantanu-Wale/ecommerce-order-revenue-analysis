@@ -1,0 +1,21 @@
+product_id,product_name,category,base_price
+P001,Samsung 43" Smart TV,Electronics,32999.0
+P002,boAt Rockerz 450 Headphones,Electronics,1499.0
+P003,Lenovo IdeaPad Laptop,Electronics,45999.0
+P004,Mi Band 7 Smartwatch,Electronics,2999.0
+P005,JBL Flip 6 Speaker,Electronics,8999.0
+P006,Men Formal Shirt,Fashion,1299.0
+P007,Women Kurti Set,Fashion,999.0
+P008,Running Shoes Nike,Fashion,3499.0
+P009,Denim Jeans Levis,Fashion,2499.0
+P010,Handbag Premium Leather,Fashion,4599.0
+P011,Prestige Pressure Cooker 5L,Home & Kitchen,2199.0
+P012,Philips Air Fryer,Home & Kitchen,6499.0
+P013,Cotton Bedsheet Set,Home & Kitchen,1599.0
+P014,Milton Water Bottle 1L,Home & Kitchen,499.0
+P015,Ceramic Dinner Set 24pcs,Home & Kitchen,3299.0
+P016,Lakme Face Serum,Beauty,799.0
+P017,Mamaearth Onion Shampoo,Beauty,399.0
+P018,Gillette Fusion Razor Kit,Beauty,599.0
+P019,Cosco Football Size 5,Sports,1199.0
+P020,Yoga Mat Anti-Slip 6mm,Sports,899.0

@@ -1,0 +1,12 @@
+customer_id,C001,C002,C003,C004,C005,,customer_id,customer_name,city,region,,,,,
+customer_name,Aarav Sharma,Priya Iyer,Rohit Verma,Sneha Patil,Karan Mehta,,C001,Aarav Sharma,Mumbai,West,,,,,
+city,Mumbai,Chennai,Delhi,Pune,Ahmedabad,,C002,Priya Iyer,Chennai,South,,,,customer_id,customer_name
+region,West,South,North,West,West,,C003,Rohit Verma,Delhi,North,,,,C001,Aarav Sharma
+,,,,,,,C004,Sneha Patil,Pune,West,,,,C002,Priya Iyer
+,,,,,,,C005,Karan Mehta,Ahmedabad,West,,,,C003,Rohit Verma
+,,,,,,,,,,,,,,C004,Sneha Patil
+,,,,,,,,,,,,,,C005,Karan Mehta
+customer_id,C001,C002,C003,C004,C005,C006,,,,,,,,C006,not available
+customer_name,Aarav Sharma,Priya Iyer,Rohit Verma,Sneha Patil,Karan Mehta,,,,,,,,,,
+Region,West,South,North,West,West,not available,,MATCH,,,,,,,
+,West,South,North,West,West,NA,,,,,,,,,
